@@ -1,5 +1,5 @@
 
-## Hi there!  
+## Hi there! 👋
 
 I'm **Samuel (Sem)** a Junior Web Developer from The Netherlands, currently learning to become a **Fullstack Developer**.  
 
